@@ -17,4 +17,7 @@ Control Flow Graph
 
 Тест случаи според критериумот Every Statement
 
+![CFGExcel](https://user-images.githubusercontent.com/62945774/83435859-35281100-a43d-11ea-901d-a327b55aa124.png)
+
+
 
